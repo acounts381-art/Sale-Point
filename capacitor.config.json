@@ -1,0 +1,6 @@
+{
+  "appId": "com.salepoint.app",
+  "appName": "Sale Point",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
